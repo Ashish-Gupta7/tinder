@@ -1,1 +1,1 @@
-only for smart phones.
+# only for smart phones.
